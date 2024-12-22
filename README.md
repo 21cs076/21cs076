@@ -13,18 +13,33 @@
 - **Tools & Technologies:** Git, Docker, Kubernetes
 
 ## Projects
-### Project 1: [Project Name](link-to-project)
-- Description: A brief description of the project and its purpose.
-- Technologies Used: List the technologies used in the project.
+### Project 1: [Spam Email Detection](https://github.com/21cs076/Spam-Email-Detection)
+- Description: This project aims to detect spam emails using machine learning techniques. It analyzes email content to classify emails as spam or legitimate.
+- Technologies Used: 
+  - Streamlit
+  - Joblib
+  - os
+  - re
+  - scikit-learn
+  - pandas
+  - TfidfVectorizer
+  - SVC
+  - MultinomialNB
+  - Logistic Regression
 
-### Project 2: [Project Name](link-to-project)
-- Description: A brief description of the project and its purpose.
-- Technologies Used: List the technologies used in the project.
+### Project 2: [Housing Market Forecast](https://github.com/21cs076/Housing-Market-Forecast)
+- Description: This project aims to forecast the housing market trends using various data analysis and machine learning techniques.
+- Technologies Used:
+  - Pandas
+  - NumPy
+  - Joblib
+  - Scikit-learn
+  - Streamlit
+  - Locale
 
 ## Contact Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
-- 🐦 Twitter: [your-twitter-handle](https://twitter.com/your-twitter-handle)
+- 📧 Email: [21cs076@mgits.ac.in](mailto:21cs076@mgits.ac.in)
+- 💼 LinkedIn: [Athul](https://www.linkedin.com/in/your-linkedin-profile)
 
 ## Fun Fact
-- 🎸 I love playing the guitar in my free time.
+- 🎸 I love playing chess in my free time.

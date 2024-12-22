@@ -18,12 +18,10 @@
 - Technologies Used: 
   - Streamlit
   - Joblib
-  - os
-  - re
   - scikit-learn
   - pandas
   - TfidfVectorizer
-  - SVC
+  - Support Vector Machine
   - MultinomialNB
   - Logistic Regression
 

@@ -13,7 +13,7 @@
 - **Tools & Technologies:** Git, Docker, Kubernetes
 
 ## Projects
-### Project 1: [Junk Mail Identifier](https://github.com/21cs076/Junk Mail Identifier)
+### Project 1: [Junk Mail Identifier](https://github.com/21cs076/Junk-Mail-Identifier)
 - Description: This project aims to detect spam emails using machine learning techniques. It analyzes email content to classify emails as spam or legitimate.
 - Technologies Used: 
   - Streamlit

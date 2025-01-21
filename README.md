@@ -7,7 +7,7 @@
 - 🤝 Open to collaborating on interesting projects.
 
 ## Skills
-- **Programming Languages:** Python, Java, C++
+- **Programming Languages:** C, Python, Java, C++
 - **Web Development:** HTML, CSS, JavaScript, React
 - **Database Management:** MySQL, PostgreSQL
 - **Tools & Technologies:** Git, Docker, Kubernetes

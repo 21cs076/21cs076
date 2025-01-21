@@ -20,7 +20,6 @@
   - Scikit-learn
   - Pandas
   - Support Vector Machine
-  - Logistic Regression
 
 ### Project 2: [Housing Market Forecast](https://github.com/21cs076/Housing-Market-Forecast)
 - Description: This project aims to forecast the housing market trends using various data analysis and machine learning techniques.

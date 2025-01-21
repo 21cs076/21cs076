@@ -31,7 +31,7 @@
 
 ## Contact Me
 - 📧 Email: [21cs076@mgits.ac.in](mailto:21cs076@mgits.ac.in)
-- 💼 LinkedIn: [Athul](www.linkedin.com/in/athul-p-benny-43935b250)
+- 💼 LinkedIn: [Athul](https://www.linkedin.com/in/athul-p-benny-43935b250/)
 
 ## Fun Fact
 - 🎸 I love playing chess in my free time.

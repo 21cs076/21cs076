@@ -18,13 +18,11 @@
 - Technologies Used: 
   - Streamlit
   - Scikit-learn
-  - Pandas
   - Support Vector Machine
 
 ### [Housing Market Forecast](https://github.com/21cs076/Housing-Market-Forecast)
 - This project aims to forecast the housing market trends using various data analysis and machine learning techniques.
 - Technologies Used:
-  - Pandas
   - Scikit-learn
   - Streamlit
 

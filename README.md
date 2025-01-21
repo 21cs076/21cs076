@@ -17,27 +17,21 @@
 - Description: This project aims to detect spam emails using machine learning techniques. It analyzes email content to classify emails as spam or legitimate.
 - Technologies Used: 
   - Streamlit
-  - Joblib
-  - scikit-learn
-  - pandas
-  - TfidfVectorizer
+  - Scikit-learn
+  - Pandas
   - Support Vector Machine
-  - MultinomialNB
   - Logistic Regression
 
 ### Project 2: [Housing Market Forecast](https://github.com/21cs076/Housing-Market-Forecast)
 - Description: This project aims to forecast the housing market trends using various data analysis and machine learning techniques.
 - Technologies Used:
   - Pandas
-  - NumPy
-  - Joblib
   - Scikit-learn
   - Streamlit
-  - Locale
 
 ## Contact Me
 - 📧 Email: [21cs076@mgits.ac.in](mailto:21cs076@mgits.ac.in)
-- 💼 LinkedIn: [athul](https://www.linkedin.com/in/your-linkedin-profile)
+- 💼 LinkedIn: [Athul](www.linkedin.com/in/athul-p-benny-43935b250)
 
 ## Fun Fact
 - 🎸 I love playing chess in my free time.

@@ -31,7 +31,7 @@
 - Technologies Used:
   - Streamlit
  
-### [Image-Feature-Simplification](https://github.com/21cs076/Image-Feature-Simplification)
+### [Image Feature Simplification](https://github.com/21cs076/Image-Feature-Simplification)
 - This is a technique used in computer vision and machine learning to reduce the number of variables or features in an image while retaining its essential information.
 - Technologies Used:
   - Streamlit

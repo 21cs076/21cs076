@@ -26,12 +26,12 @@
   - Scikit-learn
   - Streamlit
 
-### [Client Retention Forecasting]()
+### [Client Retention Forecasting](https://github.com/21cs076/Client-Retention-Forecasting)
 - This is a data-driven technique used by businesses to forecast which of their customers are likely to stop using their services or products shortly.
 - Technologies Used:
   - Streamlit
  
-### [Image-Feature-Simplification]()
+### [Image-Feature-Simplification](https://github.com/21cs076/Image-Feature-Simplification)
 - Image-Feature-Simplification is a technique used in computer vision and machine learning to reduce the number of variables or features in an image while retaining its essential information.
 - Technologies Used:
   - Streamlit
